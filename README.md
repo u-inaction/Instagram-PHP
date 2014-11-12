@@ -1,4 +1,4 @@
-instagram
+Instagram
 =========
 
-Fetch instagram feed
+Fetch instagram feed base on tag using CURL
